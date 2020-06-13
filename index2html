@@ -1,0 +1,766 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="slide.css">
+        <script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.7/js/tether.min.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link rel="stylesheet" href="css/animate.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"/>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Troy Kingston Homes</title>
+        <link href="TK/stylesheet.css" rel="stylesheet" type="text/css" />
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
+            <div class="container">
+                <a class="navbar-brand js-scroll-trigger" href="#page-top"><div style="font-size:18px !important;">Troy Kingston Homes</div></a><button class="navbar-toggler navbar-toggler-right text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">Menu <i class="fas fa-bars"></i></button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#models">Models</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#financing">Financing</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#contact">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Masthead-->
+        <header class="masthead bg-primary text-white text-center">
+            <div class="container d-flex align-items-center flex-column">
+               
+                <h1 class="masthead-heading text-uppercase mb-0"><a href="index.html"><div class="logo animated bounceInUp" >Troy Kingston Homes</div></a></h1>
+                <!-- Icon Divider-->
+               
+                <div class="divider-custom divider-light">
+                    <div class="divider-custom-icon ">
+                        <div class="hvr-grow">
+                            <div style="animation-delay: 1s;"><div class="divider-custom-line fade-in animated bounceInRight"></div></div> <br>
+                            <div style="animation-delay: 0s !important;  margin-left: 1.5rem;" ><i class=" fade-ina fas fa-home fa-3x" ></i></div><br>
+                            <div style="animation-delay: 1s;"><div class="divider-custom-line fade-in animated bounceInLeft"></div></div>
+                        </div>
+                    </div>
+                </div>
+                </div>
+                <!-- Masthead Subheading-->
+                <p class="masthead-subheading font-weight-light mb-0" style="font-size: 2.2em !important;"><div class=" animated bounceInRight logoa" style="animation-delay: 0.5s;">Housing Reimagined</div></p>
+            </div>
+        </header>
+        <!-- Portfolio Section-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <section class="" id="models">
+            <br>
+            <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Models</h2>
+        <!-- Icon Divider-->
+        <div class="divider-custom">
+            <div class="divider-custom-line "></div>
+            <div class="divider-custom-icon "><i class=" fas fa-warehouse fa-2x"></i></div>
+            <div class="divider-custom-line "></div>
+        </div>
+            
+    <table border="0" cellpadding="2">
+        <tbody>
+            <tr>
+                <td>
+                    <center>
+                        <div class="max">
+                        <div class="containerr">
+                            <a href="Hacienda.html">
+                                <img class="img" src="TK/hacienda ext 3.jpg">
+                                <!--<div class="top" style="background-color: rgba(50, 50, 50, 0.0);padding: 4px 8px;border-radius: 8px;">#1 Best Seller</div>-->
+                                <div class="centered">Tiny Hacienda</div>
+                                <div class="top">Base Model | Small Porch | Large Porch</div>
+                                <div class="botmid">399 Square Feet</div>
+                                <div class="bot" >1 Bedroom | 1 Baths</div>
+                            </a>
+                        </div>
+                        </div>
+                    </center>
+                </td>
+                <td>
+                    <center>
+                        <div class="max">
+                        <div class="containerr">
+                            <a href="Bungalow.html">
+                                <img class="img" src="TK/bungalow ext.jpg">
+                                <!--<div class="top" style="background-color: rgba(50, 50, 50, 0.0);padding: 4px 8px;border-radius: 8px;">#1 Best Seller</div>-->
+                                <div class="centered">Tiny Bungalow</div>
+                                <div class="top">Base Model | Small Porch | Large Porch</div>
+                                <div class="botmid"><div class="subb">399<br>Sq.ft.</div></div>
+                                <div class="bot" >3 Bedroom | 1 Baths</div>
+                            </a>
+                        </div>
+                        </div>
+                    </center>
+                </td>
+            </tr>
+        </tbody>
+
+    </table>              
+
+                        <br><br><br><br>
+            <center>
+                <div class="max">
+                <div class="containerr">
+                    <a href="Condo.html">
+                        <img class="img" src="TK/condo%20ext.jpg">
+                        <div class="centered">Tiny Condo</div>
+                        <div class="bottom-left">399 Square Feet | 2 Bedroom | 2 Baths</div>
+                        <div class="bottom-right">Covered Porch</div>
+                    </a>
+                </div>
+                </div>
+            </center>
+                        <br><br><br><br>
+                
+            <center>
+                <div class="max">
+                <div class="containerr">
+                    <a href="Duplex.html">
+                        <img class="img" src="TK/duplex%20ext%201.jpg">
+                        <div class="centered">Tiny Duplex</div>
+                        <div class="bottom-left">399 Square Feet | 3 Bedroom | 2 Baths</div>
+                        <div class="bottom-right">Small Porches | Large Porches</div>
+                    </a>
+                </div>
+                </div>
+            </center>
+                        <br><br><br><br>
+            
+                <center>
+                <div class="max">
+                <div class="containerr">
+                    <a href="Cabana.html">
+                        <img class="img" src="TK/cabana%20ext.jpg">
+                        <div class="centered">Tiny Cabana</div>
+                        <div class="bottom-left">399 Square Feet | Add-on with no Baths</div>
+                        <div class="bottom-right">Large Porches</div>
+                    </a>
+                </div>
+                </div>
+            </center>
+        </section>
+        <br><br>
+        <!-- About Section-->
+        <section class="page-section bg-primary text-white mb-0" id="financing">
+            <div class="container">
+                <!-- About Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-white">Financing</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom divider-light">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon" ><i class="fas fa-dollar-sign fa-3x"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                <!-- About Section Content-->
+                <div class="row">
+                    <div class="col-lg-4 ml-auto" style="text-align: center !important;"><p class="lead" >&nbsp;&nbsp;Living Made Simple<br>
+                        &nbsp;&nbsp;&nbsp;•1ABC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•4CBA<br>
+                        &nbsp;&nbsp;&nbsp;•2ACB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•5BCA<br>
+                        &nbsp;&nbsp;&nbsp;•3CAB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•6BAC<br>
+                    </p></div>
+                    <div class="col-lg-4 mr-auto" style="text-align: center !important;"><p class="lead" >&nbsp;&nbsp;Living Made Simple<br>simple simple<br>simple simple<br>simple simple</p></div>
+                </div>
+                <!-- About Section Button-->
+                <div class="text-center mt-4">
+                    <a class="btn btn-xl btn-outline-light" href="google.com">Learn More&nbsp;&nbsp;&nbsp;&nbsp;<i class="fas fa-arrow-right fa-0.5x"></i></a>
+                </div>
+            </div>
+        </section>
+        <!-- Contact Section-->
+        <section class="page-section" id="contact">
+
+            <div class="container">
+                <!-- Contact Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Contact Us</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="far fa-envelope fa-3x"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+            </div>
+
+            <center>
+                <form
+                action="https://formspree.io/xdowgdaz"
+                method="POST">
+                <label>
+                  Email:
+                  <input type="text" name="_replyto">
+                </label>
+                <br>
+                <label>
+                    Phone #:
+                    <input type="text" name="phone">
+                  </label>
+                  <br>
+                <label>
+                  Message:
+                  <textarea name="message"></textarea>
+                </label>
+             <br><br>
+                <!-- your other form fields go here -->
+              
+                <button class="btn btn-primary btn-xl" type="submit">Send</button>
+              </form>
+        
+            </center>
+
+
+
+
+        </section>
+        <!-- Footer-->
+        <footer class="footer text-center">
+            <div class="container">
+                <div class="row">
+                    <!-- Footer Location-->
+                    <div class="col-lg-4 mb-5 mb-lg-0">
+                        <h4 class="text-uppercase mb-4">Location</h4>
+                        <p class="lead mb-0">123 Main St</p>
+                    </div>
+                    <!-- Footer Social Icons-->
+                    <div class="col-lg-4 mb-5 mb-lg-0">
+                        <h4 class="text-uppercase mb-4">Social Media</h4>
+                        <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-facebook-f"></i></a><a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-twitter"></i></a><a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-instagram"></i></a>
+                    </div>
+                    <!-- Footer About Text-->
+                    <div class="col-lg-4">
+                        <h4 class="text-uppercase mb-4">Contact Us</h4>
+                        <p class="lead mb-0" style="text-align: center !important;">Email:&nbsp;<a href="info"> info@TroyKingstonHomes.com</a><br><br>
+                            Phone:&nbsp;<a href="info">(123)-456-7890</a><br><br>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Copyright Section-->
+        <div class="copyright py-4 text-center text-white">
+            <div class="container"><small><div style="color:#FFF !important;font-size: 16px;">Copyright © Troy Kingston 2020</div></small></div>
+        </div>
+        <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes)-->
+        <div class="scroll-to-top d-lg-none position-fixed">
+            <a class="js-scroll-trigger d-block text-center text-white rounded" href="#page-top"><i class="fa fa-chevron-up"></i></a>
+        </div>
+        <!-- Portfolio Modals--><!-- Portfolio Modal 1-->
+        <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-labelledby="portfolioModal1Label" aria-hidden="true">
+            <div class="modal-dialog modal-xl" role="document">
+                <div class="modal-content">
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal1Label">Log Cabin</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fab fa-joomla"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Image--><img class="img-fluid rounded mb-5" src="assets/img/portfolio/cabin.png" alt="" /><!-- Portfolio Modal - Text-->
+                                    <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <button class="btn btn-primary" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Close Window</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio Modal 2-->
+        <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-labelledby="portfolioModal2Label" aria-hidden="true">
+            <div class="modal-dialog modal-xl" role="document">
+                <div class="modal-content">
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal2Label">Tasty Cake</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fab fa-joomla"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Image--><img class="img-fluid rounded mb-5" src="assets/img/portfolio/cake.png" alt="" /><!-- Portfolio Modal - Text-->
+                                    <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <button class="btn btn-primary" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Close Window</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio Modal 3-->
+        <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-labelledby="portfolioModal3Label" aria-hidden="true">
+            <div class="modal-dialog modal-xl" role="document">
+                <div class="modal-content">
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal3Label">Pop Up</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fab fa-joomla"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Image--><img class="img-fluid rounded mb-5" src="Tk/TKH.png" alt="" /><!-- Portfolio Modal - Text-->
+                                    <p class="mb-5">Housing Simplified</p>
+                                    <button class="btn btn-primary" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Close Window</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio Modal 4-->
+        <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-labelledby="portfolioModal4Label" aria-hidden="true">
+            <div class="modal-dialog modal-xl" role="document">
+                <div class="modal-content">
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal4Label">Controller</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fab fa-joomla"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Image--><img class="img-fluid rounded mb-5" src="assets/img/portfolio/game.png" alt="" /><!-- Portfolio Modal - Text-->
+                                    <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <button class="btn btn-primary" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Close Window</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio Modal 5-->
+        <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-labelledby="portfolioModal5Label" aria-hidden="true">
+            <div class="modal-dialog modal-xl" role="document">
+                <div class="modal-content">
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal5Label">Locked Safe</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fab fa-joomla"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Image--><img class="img-fluid rounded mb-5" src="assets/img/portfolio/safe.png" alt="" /><!-- Portfolio Modal - Text-->
+                                    <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <button class="btn btn-primary" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Close Window</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio Modal 6-->
+        <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-labelledby="portfolioModal6Label" aria-hidden="true">
+            <div class="modal-dialog modal-xl" role="document">
+                <div class="modal-content">
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal6Label">Submarine</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fab fa-joomla"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Image--><img class="img-fluid rounded mb-5" src="assets/img/portfolio/submarine.png" alt="" /><!-- Portfolio Modal - Text-->
+                                    <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <button class="btn btn-primary" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Close Window</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+
+
+        <br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+
+
+
+
+
+
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <                <div class="carousel-item">
+                    <div class="containerr">
+                    <a href="Hacienda.html">
+                        <img class="img img-fluid" src="TK/hacienda ext 3.jpg">
+                        <div class="centered">Tiny Hacienda</div>
+                    </a>
+                </div>
+    <div class="carousel-caption d-none d-md-block">
+      <h5>Hac</h5>
+      <p>aaa</p>
+    </div>
+  </div> 
+    </div>
+    <div class="carousel-item">
+                      <div class="carousel-item">
+                    <div class="containerr">
+                    <a href="Hacienda.html">
+                        <img class="img img-fluid" src="TK/hacienda ext 3.jpg">
+                        <div class="centered">Tiny Hacienda</div>
+                    </a>
+                </div>
+    <div class="carousel-caption d-none d-md-block">
+      <h5>Hac</h5>
+      <p>aaa</p>
+    </div>
+  </div> 
+    </div>
+    <div class="carousel-item">
+                      <div class="carousel-item">
+                    <div class="containerr">
+                    <a href="Hacienda.html">
+                        <img class="img img-fluid" src="TK/hacienda ext 3.jpg">
+                        <div class="centered">Tiny Hacienda</div>
+                    </a>
+                </div>
+    <div class="carousel-caption d-none d-md-block">
+      <h5>Hac</h5>
+      <p>aaa</p>
+    </div>
+  </div> 
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="carousel-item">
+                    <div class="containerr">
+                    <a href="Hacienda.html">
+                        <img class="img img-fluid" src="TK/hacienda ext 3.jpg">
+                        <div class="centered">Tiny Hacienda</div>
+                    </a>
+                </div>
+    <div class="carousel-caption d-none d-md-block">
+      <h5>...</h5>
+      <p>...</p>
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<center>
+
+    </center>
+
+
+
+-->
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<section class="page-section portfolio" id="models">   
+    <div class="container-fluid" >
+        <!-- Portfolio Section Heading-->
+        <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Models</h2>
+        <!-- Icon Divider-->
+        <div class="divider-custom">
+            <div class="divider-custom-line "></div>
+            <div class="divider-custom-icon "><i class=" fas fa-warehouse fa-2x"></i></div>
+            <div class="divider-custom-line "></div>
+        </div>
+        <br>
+        <br>
+        <!-- Portfolio Grid Items-->
+        <div class="row ">
+            <!-- Portfolio Item 1-->
+            <div class="col-sm-12" >
+<div class="containerr">
+                <a href="Hacienda.html">
+                                        
+                <div class="container">
+                    <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+                        <ol class="carousel-indicators">
+                          <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+                          <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+                          <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+                        </ol>
+                        <div class="carousel-inner">
+                          <div class="carousel-item active" data-interval="2222">
+                            <img src="TK/hacienda ext 2.jpg" class="d-block w-100" alt="...">
+                            <div class="carousel-caption d-none d-md-block">
+                              <h5>Large Porch</h5>
+                              <p>399 sq ft. | 3 Bedroom | 3 Bath</p>
+                            </div>
+                          </div>
+                          <div class="carousel-item" data-interval="2222">
+                            <img src="TK/hacienda ext 3.jpg" class="d-block w-100" alt="...">
+                            <div class="carousel-caption d-none d-md-block">
+                              <h5>Base Porch</h5>
+                              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                            </div>
+                          </div>
+                          <div class="carousel-item" data-interval="2222">
+                            <img src="TK/hacienda ext.jpg" class="d-block w-100" alt="...">
+                            <div class="carousel-caption d-none d-md-block">
+                              <h5>Small Porch</h5>
+                              <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                            </div>
+                          </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+                          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                          <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+                          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                          <span class="sr-only">Next</span>
+                        </a>
+                      </div>
+                </div>
+                <div class="centered">Tiny Hacienda</div>
+                </a>
+            </div>
+                </div>
+            <!-- Portfolio Item 2-->
+            <div class="col-sm-12 col-md-6 mb-2 " >
+<div class="containerr">
+<a href="Hacienda.html">
+                        
+<div class="container">
+    <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+          <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+          <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+          <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+          <div class="carousel-item active" data-interval="2222">
+            <img src="TK/hacienda ext 2.jpg" class="d-block w-100" alt="...">
+            <div class="carousel-caption d-none d-md-block">
+              <h5>Large Porch</h5>
+              <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+            </div>
+          </div>
+          <div class="carousel-item" data-interval="2222">
+            <img src="TK/hacienda ext 3.jpg" class="d-block w-100" alt="...">
+            <div class="carousel-caption d-none d-md-block">
+              <h5>Base Porch</h5>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </div>
+          </div>
+          <div class="carousel-item" data-interval="2222">
+            <img src="TK/hacienda ext.jpg" class="d-block w-100" alt="...">
+            <div class="carousel-caption d-none d-md-block">
+              <h5>Small Porch</h5>
+              <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+            </div>
+          </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
+</div>
+<div class="centered">Tiny Hacienda</div>
+</a>
+    </div>
+</div>
+            <!-- Portfolio Item 3-->
+            <div class="col-sm-12 col-md-6 mb-2" >
+                <div class="containerr">
+                    <a href="Hacienda.html">
+                        <img class="img img-fluid" src="TK/hacienda ext 3.jpg">
+                        <div class="centered">Tiny Hacienda</div>
+                    </a>
+                </div>
+            </div>
+            <!-- Portfolio Item 4-->
+            <div class="col-sm-12 col-md-6 mb-2" >
+                <div class="containerr">
+                    <a href="Hacienda.html">
+                        <img class="img img-fluid" src="TK/hacienda ext 3.jpg">
+                        <div class="centered">Tiny Hacienda</div>
+                    </a>
+                </div>
+            </div>
+            <!-- Portfolio Item 5-->
+            <div class="col-sm-12 col-md-6 mb-2" >
+                <div class="containerr">
+                    <a href="Hacienda.html">
+                        <img class="img img-fluid" src="TK/hacienda ext 3.jpg">
+                        <div class="centered">Tiny Hacienda</div>
+                    </a>
+                </div>
+            </div>
+            <!-- Portfolio Item 6-->
+            <div class="col-sm-12 col-md-6 mb-2" >
+                <div class="containerr">
+                    <a href="Hacienda.html">
+                        <img class="img img-fluid" src="TK/hacienda ext 3.jpg">
+                        <div class="centered">Tiny Hacienda</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+   
+
+
+        <!-- Bootstrap core JS-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
+        <!-- Third party plugin JS-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+        <!-- Contact form JS-->
+        <script src="assets/mail/jqBootstrapValidation.js"></script>
+        <script src="assets/mail/contact_me.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+
+
+        
+    </body>
+</html>
+
+l>
